@@ -19,7 +19,7 @@ Market structure is formed by the interaction of buyers and sellers at key price
 ## The "Swing" Points
 
 Jayson Casper emphasizes identifying **Swing Highs** and **Swing Lows**. These are the "anchor points" for your analysis.
-- A valid Swing High/Low must be clearly visible and represent a significant turning point in price.
+- A valid Swing High/Low must be clearly visible and represent a significant turning point in price.It consists at least two consequitive bullish/bearish candles in each given time frame. E.g - 2 min time frame at least two consequitive bullish/bearish candles visible but on 5 min time frame is only one bullish/bearish visible, that means the MS swing high/low is valid only valid in 2 min time frame but not in 5 min time frame.
 - **Rule of Thumb**: If you have to squint to see it, it's probably not a major structural point.
 
 ## Multi-Timeframe Perspective
